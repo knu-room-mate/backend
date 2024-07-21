@@ -1,0 +1,10 @@
+{
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "singleQuote": false,
+
+    "quoteProps": "as-needed",
+
+    "printWidth": 120,
+    "tabWidth": 4
+}
